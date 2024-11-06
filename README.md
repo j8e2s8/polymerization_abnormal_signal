@@ -1,1 +1,1 @@
-# polymerization_abnormal_signal
+# polymerization_abnormal_signal 작업환경 입니다
